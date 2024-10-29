@@ -4,7 +4,7 @@
 
 <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
     <div class="sm:mx-auto sm:w-full sm:max-w-sm">
-        <h2 class="mt-40 text-center text-2xl/9 font-bold tracking-tight text-gray-900">Sign in to your anony account</h2>
+        <h2 class="mt-40 text-center text-2xl/9 font-bold tracking-tight text-gray-900">Create your Anony account</h2>
     </div>
 
     <div class="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
