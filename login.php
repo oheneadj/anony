@@ -1,4 +1,5 @@
 <?php define("PAGE_TITLE", "Login"); ?>
+<?php require_once('./config/db_config.php') ?>
 
 <?php require_once './includes/header.php' ?>
 
